@@ -2,6 +2,8 @@
 
 An uncomplete list of beans that we got for the 33c3. All beans are sponsored by attendees of the congress or the roasters themselves.
 
+If you contact (or order from) one of the roasters, why not let them know you tried their beans at our coffeenerds assembly?
+
 * Black Delight
 * Christof Feichtinger
 * Die rösterei
