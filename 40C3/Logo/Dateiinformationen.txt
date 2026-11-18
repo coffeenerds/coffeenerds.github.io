@@ -1,0 +1,66 @@
+40C3 × Coffeenerds – ausgewählte Logo-Varianten 3, 5 und 7
+
+Jeweils Versalien, in Farbe A und B aus dem vorliegenden 40C3-Styleguide V1.4.
+
+Farbe A: #DFEED5 / RGB 223, 238, 213 (Hellgrün)
+Farbe B: #031202 / RGB 3, 18, 2 (Dunkelgrün)
+
+Quelle: research/styleguide-2026-11-14/package/Styleguide.pdf,
+PDF-Seite 4, und 40C3_sRGB_Palette.gpl aus demselben Paket.
+
+Farbe-A/ und Farbe-B/ enthalten je drei Logos als SVG, PDF und EPS:
+insgesamt 18 Vektordateien. Alle Dateien verwenden die RGB-Farbwerte
+der sRGB-Palette. Es handelt sich nicht um CMYK-Druckprofil-Exporte.
+
+Alle Schriften sind in Pfade umgewandelt. Die Formen, Größenverhältnisse
+und Anordnungen entsprechen den ausgewählten Vorschlägen 3, 5 und 7.
+
+Die Logo-Dateien enthalten keine Hintergrundfläche. Die Bohnenpupille
+und die übrigen Aussparungen sind ebenfalls unbemalt. EPS speichert keine
+Alpha-Transparenz; die Flächen bleiben beim Platzieren dennoch frei,
+weil dort nichts gezeichnet wird.
+
+Die farbigen Flächen in der separaten Vorschau dienen nur der Darstellung
+der hellen und dunklen Logos und sind nicht Bestandteil der Logo-Dateien.
+
+PANTONE C – ANGENÄHERTE DRUCKREFERENZEN
+
+A / Hellgrün #DFEED5:
+  PANTONE 9560 C
+  Bibliothek: Pastels & Neons Coated (Pastellfarbe, kein Neonfarbton).
+  Annäherungsvorschlag; keine offizielle 40C3-Zuordnung.
+  Pantone nennt als digitale Referenz #DFEFDB / RGB 223, 239, 219.
+  Diese Bildschirmreferenz ist dem Styleguide-A nahe, aber nicht identisch.
+
+B / Dunkelgrün #031202:
+  PANTONE Black 3 C
+  Bibliothek: Solid Coated.
+  Annäherungsvorschlag für ein grünliches Schwarz; keine exakte Umrechnung.
+  Die veröffentlichte Bildschirmannäherung #212721 fällt heller aus als B.
+
+Der 40C3-Styleguide V1.4 enthält selbst keine Pantone-Nummern.
+Die Zuordnung wurde hier als Vorschlag ergänzt, nicht als offiziell
+freigegebene oder messtechnisch nächstgelegene Pantone-Entsprechung.
+C bezeichnet die Referenz auf gestrichenem Papier (Coated).
+Vor dem Druck am physischen Pantone-Fächer und auf dem vorgesehenen
+Material bemustern; auf Keramik ist der C-Fächer eine Farbreferenz.
+
+Die 18 Logo-Dateien enthalten weiterhin die ursprünglichen RGB-Farben
+A und B. Es wurden keine Pantone-Sonderfarbkanäle angelegt.
+
+CMYK laut 40C3-Styleguide V1.4, PDF-Seite 5, PSO Coated V3:
+  A: C 12 / M 0 / Y 20 / K 0
+  B: C 80 / M 45 / Y 100 / K 95
+Diese CMYK-Werte gehören zu den Styleguide-Farben, nicht zu den
+vorgeschlagenen Pantone-Farben.
+
+Quellen / Recherche 17.11.2026:
+- 40C3-Styleguide V1.4: lokale PDF-Seiten 4 und 5.
+- PANTONE 9560 C, Bibliothek Pastels & Neons Coated:
+  https://www.pantone.com/uk/en-gb/color-finder/9560-c
+- PANTONE 9560 C, veröffentlichte digitale Referenz:
+  https://www.pantonecn.com/connect/9560-C
+- PANTONE Black 3 C, Bibliothek Solid Coated:
+  https://www.pantone.com/color-finder/black-3-c
+- Black 3 C, RGB-Bildschirmannäherung der Druckerei Sticker.com:
+  https://www.sticker.com/pms-color-chart.html
